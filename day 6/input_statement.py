@@ -1,0 +1,5 @@
+a = input("Enter you age: ")
+b = int(a)
+# print(a)
+print(type(a))
+print(type(b))

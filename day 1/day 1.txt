@@ -1,0 +1,23 @@
+password: CLB40435C7
+ctrl + ` (to open terminal)
+
+#Programmming Language- tool that is used to communicate with computers
+# Python - Programming Language
+
+why python? 
+ -easy to learn
+ -used in advanced sectors
+ -interpreted
+
+Syntax: set of rules
+ - Statements, Keywords and Identifiers
+Statements:
+	group of code 
+	type: single lined and multi lined
+Keywords:
+	-reserved words
+	-eg: if else, for, while
+Identifier:
+	-user-defined word
+	- are name to identify variable, function, class
+		 and other objects

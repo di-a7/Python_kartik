@@ -1,0 +1,2 @@
+Git - Version Control System, track the progress of the project, stores the log files.
+Github - website that uses Version Control System, store the project, can be your programming portfolio, colaboration with other developers
