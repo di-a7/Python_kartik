@@ -1,1 +1,0 @@
-{"username": "ram", "password": "ram", "usertype": "seller"}-{"username": "hari", "password": "hari", "usertype": "seller"}-{"username": "gopal", "password": "gopal", "usertype": "buyer"}-
